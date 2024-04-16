@@ -4,8 +4,7 @@
 	"description": "A project to practice back-end API development.",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.2.13"
+		"express": "^4.14.0"
 	},
 	"keywords": [ "freecodecamp", "certification", "software" ],
 	"license": "AAN",
